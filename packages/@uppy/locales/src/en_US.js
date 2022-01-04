@@ -50,7 +50,7 @@ en_US.strings = {
   dropPasteImportBoth: 'Drop files here, %{browseFiles}, %{browseFolders} or import from:',
   dropPasteImportFiles: 'Drop files here, %{browseFiles} or import from:',
   dropPasteImportFolders: 'Drop files here, %{browseFolders} or import from:',
-  editFile: 'Edit file',
+  editFile: 'Add comments',
   editFileWithFilename: 'Edit file %{file}',
   editing: 'Editing %{file}',
   emptyFolderAdded: 'No files were added from empty folder',
@@ -132,7 +132,7 @@ en_US.strings = {
   revert: 'Revert',
   rotate: 'Rotate',
   save: 'Save',
-  saveChanges: 'Save changes',
+  saveChanges: 'Save',
   searchImages: 'Search for images',
   selectX: {
     '0': 'Select %{smart_count}',

@@ -35,7 +35,7 @@ es_ES.strings = {
   dropPasteImportBoth: 'Soltar archivos aquí, pegar, %{browse} o importar desde',
   dropPasteImportFiles: 'Soltar archivos aquí, pegar, %{browse} o importar desde',
   dropPasteImportFolders: 'Soltar archivos aquí, pegar, %{browse} o importar desde',
-  editFile: 'Editar archivo',
+  editFile: 'Agregar comentarios',
   editing: 'Editando %{file}',
   emptyFolderAdded: 'Ningún archivo fue agregado desde la carpeta vacía',
   encoding: 'Codificando...',
@@ -82,7 +82,7 @@ es_ES.strings = {
   resumeUpload: 'Reanudar subida',
   retry: 'Intentar nuevamente',
   retryUpload: 'Intentar subida nuevamente',
-  saveChanges: 'Guardar cambios',
+  saveChanges: 'Guardar',
   selectX: {
     '0': 'Seleccionar %{smart_count}',
     '1': 'Seleccionar %{smart_count}',
